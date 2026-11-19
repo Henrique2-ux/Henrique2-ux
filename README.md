@@ -1,16 +1,17 @@
-## Hi there 👋
+# Arthur Henrique Ribas Silva
 
-<!--
-**Henrique2-ux/Henrique2-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Computação (IFMS), 4º semestre.
+Em busca de estágio em desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Estudando
+- C e C++
+- Shell Script e Linux
+- Estruturas de dados e banco de dados
+- Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atividades
+- PET Clima: mapeamento geográfico de pontos de calor
+
+## Contato
+- LinkedIn: linkedin.com/in/arthur-henrique-32b544276
+- E-mail: arthur.ribas456@gmail.com
